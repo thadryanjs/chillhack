@@ -17,5 +17,9 @@
         "path": "./themes/chillhack-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/thadryanjs/chillhack"
+  }   
 }
